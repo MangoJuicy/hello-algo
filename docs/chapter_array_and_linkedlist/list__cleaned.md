@@ -257,7 +257,7 @@ Java
 -----------------------------------------------------------------
 
 ## MY_LIST
-Python: `my_list.py`
+#### Python: `my_list.py`
 ```python
 
 
@@ -374,7 +374,7 @@ if __name__ == "__main__":
     print(f"扩容后的列表 {nums.to_array()} ，容量 = {nums.capacity()} ，长度 = {nums.size()}")
 ```
 
-Java: `my_list.java`
+#### Java: `my_list.java`
 ```java
 
 package chapter_array_and_linkedlist;

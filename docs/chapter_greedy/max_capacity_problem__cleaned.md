@@ -103,7 +103,7 @@ $$
 -----------------------------------------------------------------
 
 ## MAX_CAPACITY
-Python: `max_capacity.py`
+#### Python: `max_capacity.py`
 ```python
 
 
@@ -135,7 +135,7 @@ if __name__ == "__main__":
     print(f"最大容量为 {res}")
 ```
 
-Java: `max_capacity.java`
+#### Java: `max_capacity.java`
 ```java
 
 package chapter_greedy;

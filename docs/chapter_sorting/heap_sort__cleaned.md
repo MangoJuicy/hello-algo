@@ -77,7 +77,7 @@
 -----------------------------------------------------------------
 
 ## HEAP_SORT
-Python: `heap_sort.py`
+#### Python: `heap_sort.py`
 ```python
 
 
@@ -121,7 +121,7 @@ if __name__ == "__main__":
     print("堆排序完成后 nums =", nums)
 ```
 
-Java: `heap_sort.java`
+#### Java: `heap_sort.java`
 ```java
 
 package chapter_sorting;

@@ -89,7 +89,7 @@ $$
 -----------------------------------------------------------------
 
 ## MAX_PRODUCT_CUTTING
-Python: `max_product_cutting.py`
+#### Python: `max_product_cutting.py`
 ```python
 
 import math
@@ -121,7 +121,7 @@ if __name__ == "__main__":
     print(f"最大切分乘积为 {res}")
 ```
 
-Java: `max_product_cutting.java`
+#### Java: `max_product_cutting.java`
 ```java
 
 package chapter_greedy;

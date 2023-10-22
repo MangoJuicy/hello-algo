@@ -138,7 +138,7 @@ Java
 -----------------------------------------------------------------
 
 ## LINKEDLIST_STACK
-Python: `linkedlist_stack.py`
+#### Python: `linkedlist_stack.py`
 ```python
 
 import sys
@@ -226,7 +226,7 @@ if __name__ == "__main__":
     print("栈是否为空 =", is_empty)
 ```
 
-Java: `linkedlist_stack.java`
+#### Java: `linkedlist_stack.java`
 ```java
 
 package chapter_stack_and_queue;
@@ -326,7 +326,7 @@ public class linkedlist_stack {
 -----------------------------------------------------------------
 
 ## ARRAY_STACK
-Python: `array_stack.py`
+#### Python: `array_stack.py`
 ```python
 
 
@@ -397,7 +397,7 @@ if __name__ == "__main__":
     print("栈是否为空 =", is_empty)
 ```
 
-Java: `array_stack.java`
+#### Java: `array_stack.java`
 ```java
 
 package chapter_stack_and_queue;

@@ -45,7 +45,7 @@
 -----------------------------------------------------------------
 
 ## GRAPH_ADJACENCY_MATRIX
-Python: `graph_adjacency_matrix.py`
+#### Python: `graph_adjacency_matrix.py`
 ```python
 
 import sys
@@ -163,7 +163,7 @@ if __name__ == "__main__":
     graph.print()
 ```
 
-Java: `graph_adjacency_matrix.java`
+#### Java: `graph_adjacency_matrix.java`
 ```java
 
 package chapter_graph;
@@ -299,7 +299,7 @@ public class graph_adjacency_matrix {
 -----------------------------------------------------------------
 
 ## GRAPH_ADJACENCY_LIST
-Python: `graph_adjacency_list.py`
+#### Python: `graph_adjacency_list.py`
 ```python
 
 import sys
@@ -409,7 +409,7 @@ if __name__ == "__main__":
     graph.print()
 ```
 
-Java: `graph_adjacency_list.java`
+#### Java: `graph_adjacency_list.java`
 ```java
 
 package chapter_graph;

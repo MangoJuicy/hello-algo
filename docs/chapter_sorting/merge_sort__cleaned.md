@@ -80,7 +80,7 @@
 -----------------------------------------------------------------
 
 ## MERGE_SORT
-Python: `merge_sort.py`
+#### Python: `merge_sort.py`
 ```python
 
 
@@ -135,7 +135,7 @@ if __name__ == "__main__":
     print("归并排序完成后 nums =", nums)
 ```
 
-Java: `merge_sort.java`
+#### Java: `merge_sort.java`
 ```java
 
 package chapter_sorting;

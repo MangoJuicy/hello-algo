@@ -53,7 +53,7 @@
 -----------------------------------------------------------------
 
 ## N_QUEENS
-Python: `n_queens.py`
+#### Python: `n_queens.py`
 ```python
 
 
@@ -114,7 +114,7 @@ if __name__ == "__main__":
             print(row)
 ```
 
-Java: `n_queens.java`
+#### Java: `n_queens.java`
 ```java
 
 package chapter_backtracking;

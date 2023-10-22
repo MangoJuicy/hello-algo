@@ -49,7 +49,7 @@
 -----------------------------------------------------------------
 
 ## TWO_SUM
-Python: `two_sum.py`
+#### Python: `two_sum.py`
 ```python
 
 
@@ -90,7 +90,7 @@ if __name__ == "__main__":
     print("方法二 res =", res)
 ```
 
-Java: `two_sum.java`
+#### Java: `two_sum.java`
 ```java
 
 package chapter_searching;

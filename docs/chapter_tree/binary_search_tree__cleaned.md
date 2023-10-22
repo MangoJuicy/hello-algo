@@ -137,7 +137,7 @@
 -----------------------------------------------------------------
 
 ## BINARY_SEARCH_TREE
-Python: `binary_search_tree.py`
+#### Python: `binary_search_tree.py`
 ```python
 
 import sys
@@ -282,7 +282,7 @@ if __name__ == "__main__":
     print_tree(bst.get_root())
 ```
 
-Java: `binary_search_tree.java`
+#### Java: `binary_search_tree.java`
 ```java
 
 package chapter_tree;

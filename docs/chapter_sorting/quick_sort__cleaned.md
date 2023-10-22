@@ -102,7 +102,7 @@
 -----------------------------------------------------------------
 
 ## QUICK_SORT
-Python: `quick_sort.py`
+#### Python: `quick_sort.py`
 ```python
 
 
@@ -231,7 +231,7 @@ if __name__ == "__main__":
     print("快速排序（尾递归优化）完成后 nums =", nums2)
 ```
 
-Java: `quick_sort.java`
+#### Java: `quick_sort.java`
 ```java
 
 package chapter_sorting;

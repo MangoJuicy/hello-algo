@@ -190,7 +190,7 @@ Java
 -----------------------------------------------------------------
 
 ## SIMPLE_HASH
-Python: `simple_hash.py`
+#### Python: `simple_hash.py`
 ```python
 
 
@@ -247,7 +247,7 @@ if __name__ == "__main__":
     print(f"旋转哈希值为 {hash}")
 ```
 
-Java: `simple_hash.java`
+#### Java: `simple_hash.java`
 ```java
 
 package chapter_hashing;

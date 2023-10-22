@@ -99,7 +99,7 @@
 -----------------------------------------------------------------
 
 ## SUBSET_SUM_I_NAIVE
-Python: `subset_sum_i_naive.py`
+#### Python: `subset_sum_i_naive.py`
 ```python
 
 
@@ -148,7 +148,7 @@ if __name__ == "__main__":
     print(f"请注意，该方法输出的结果包含重复集合")
 ```
 
-Java: `subset_sum_i_naive.java`
+#### Java: `subset_sum_i_naive.java`
 ```java
 
 package chapter_backtracking;
@@ -206,7 +206,7 @@ public class subset_sum_i_naive {
 -----------------------------------------------------------------
 
 ## SUBSET_SUM_I
-Python: `subset_sum_i.py`
+#### Python: `subset_sum_i.py`
 ```python
 
 
@@ -253,7 +253,7 @@ if __name__ == "__main__":
     print(f"所有和等于 {target} 的子集 res = {res}")
 ```
 
-Java: `subset_sum_i.java`
+#### Java: `subset_sum_i.java`
 ```java
 
 package chapter_backtracking;
@@ -313,7 +313,7 @@ public class subset_sum_i {
 -----------------------------------------------------------------
 
 ## SUBSET_SUM_II
-Python: `subset_sum_ii.py`
+#### Python: `subset_sum_ii.py`
 ```python
 
 
@@ -364,7 +364,7 @@ if __name__ == "__main__":
     print(f"所有和等于 {target} 的子集 res = {res}")
 ```
 
-Java: `subset_sum_ii.java`
+#### Java: `subset_sum_ii.java`
 ```java
 
 package chapter_backtracking;

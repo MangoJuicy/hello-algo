@@ -48,7 +48,7 @@
 -----------------------------------------------------------------
 
 ## BUCKET_SORT
-Python: `bucket_sort.py`
+#### Python: `bucket_sort.py`
 ```python
 
 
@@ -82,7 +82,7 @@ if __name__ == "__main__":
     print("桶排序完成后 nums =", nums)
 ```
 
-Java: `bucket_sort.java`
+#### Java: `bucket_sort.java`
 ```java
 
 package chapter_sorting;

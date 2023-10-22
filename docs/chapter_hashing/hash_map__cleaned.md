@@ -184,7 +184,7 @@ index = hash(key) % capacity
 -----------------------------------------------------------------
 
 ## ARRAY_HASH_MAP
-Python: `array_hash_map.py`
+#### Python: `array_hash_map.py`
 ```python
 
 
@@ -300,7 +300,7 @@ if __name__ == "__main__":
         print(val)
 ```
 
-Java: `array_hash_map.java`
+#### Java: `array_hash_map.java`
 ```java
 
 package chapter_hashing;

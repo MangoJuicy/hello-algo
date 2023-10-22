@@ -54,7 +54,7 @@
 -----------------------------------------------------------------
 
 ## FRACTIONAL_KNAPSACK
-Python: `fractional_knapsack.py`
+#### Python: `fractional_knapsack.py`
 ```python
 
 
@@ -99,7 +99,7 @@ if __name__ == "__main__":
     print(f"不超过背包容量的最大物品价值为 {res}")
 ```
 
-Java: `fractional_knapsack.java`
+#### Java: `fractional_knapsack.java`
 ```java
 
 package chapter_greedy;

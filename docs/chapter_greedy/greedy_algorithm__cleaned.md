@@ -96,7 +96,7 @@
 -----------------------------------------------------------------
 
 ## COIN_CHANGE_GREEDY
-Python: `coin_change_greedy.py`
+#### Python: `coin_change_greedy.py`
 ```python
 
 
@@ -143,7 +143,7 @@ if __name__ == "__main__":
     print(f"实际上需要的最少数量为 2 ，即 49 + 49")
 ```
 
-Java: `coin_change_greedy.java`
+#### Java: `coin_change_greedy.java`
 ```java
 
 package chapter_greedy;

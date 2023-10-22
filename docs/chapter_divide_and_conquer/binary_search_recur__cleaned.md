@@ -49,7 +49,7 @@
 -----------------------------------------------------------------
 
 ## BINARY_SEARCH_RECUR
-Python: `binary_search_recur.py`
+#### Python: `binary_search_recur.py`
 ```python
 
 
@@ -88,7 +88,7 @@ if __name__ == "__main__":
     print("目标元素 6 的索引 = ", index)
 ```
 
-Java: `binary_search_recur.java`
+#### Java: `binary_search_recur.java`
 ```java
 
 package chapter_divide_and_conquer;

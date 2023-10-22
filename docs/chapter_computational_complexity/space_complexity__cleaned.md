@@ -258,7 +258,7 @@ $$
 -----------------------------------------------------------------
 
 ## SPACE_COMPLEXITY
-Python: `space_complexity.py`
+#### Python: `space_complexity.py`
 ```python
 
 import sys
@@ -347,7 +347,7 @@ if __name__ == "__main__":
     print_tree(root)
 ```
 
-Java: `space_complexity.java`
+#### Java: `space_complexity.java`
 ```java
 
 package chapter_computational_complexity;

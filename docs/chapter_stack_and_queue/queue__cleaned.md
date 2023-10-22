@@ -121,7 +121,7 @@ Java
 -----------------------------------------------------------------
 
 ## LINKEDLIST_QUEUE
-Python: `linkedlist_queue.py`
+#### Python: `linkedlist_queue.py`
 ```python
 
 import sys
@@ -217,7 +217,7 @@ if __name__ == "__main__":
     print("队列是否为空 =", is_empty)
 ```
 
-Java: `linkedlist_queue.java`
+#### Java: `linkedlist_queue.java`
 ```java
 
 package chapter_stack_and_queue;
@@ -326,7 +326,7 @@ public class linkedlist_queue {
 -----------------------------------------------------------------
 
 ## ARRAY_QUEUE
-Python: `array_queue.py`
+#### Python: `array_queue.py`
 ```python
 
 
@@ -423,7 +423,7 @@ if __name__ == "__main__":
         print("第", i, "轮入队 + 出队后 queue = ", queue.to_list())
 ```
 
-Java: `array_queue.java`
+#### Java: `array_queue.java`
 ```java
 
 package chapter_stack_and_queue;

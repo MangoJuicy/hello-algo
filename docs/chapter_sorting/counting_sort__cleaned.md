@@ -86,7 +86,7 @@ $$
 -----------------------------------------------------------------
 
 ## COUNTING_SORT
-Python: `counting_sort.py`
+#### Python: `counting_sort.py`
 ```python
 
 
@@ -149,7 +149,7 @@ if __name__ == "__main__":
     print(f"计数排序完成后 nums1 = {nums1}")
 ```
 
-Java: `counting_sort.java`
+#### Java: `counting_sort.java`
 ```java
 
 package chapter_sorting;

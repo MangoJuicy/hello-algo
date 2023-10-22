@@ -249,7 +249,7 @@ Java
 -----------------------------------------------------------------
 
 ## MY_HEAP
-Python: `my_heap.py`
+#### Python: `my_heap.py`
 ```python
 
 import sys
@@ -385,7 +385,7 @@ if __name__ == "__main__":
     print(f"\n堆是否为空 {is_empty}")
 ```
 
-Java: `my_heap.java`
+#### Java: `my_heap.java`
 ```java
 
 package chapter_heap;

@@ -84,7 +84,7 @@ def get_file_path(target_filename: str, search_path: str):
     return None
 
 def append_source_code(filename: str, file_path: str, destination_file, language: str):
-    destination_file.write(f"{language.capitalize()}: `{filename}`\n")
+    destination_file.write(f"#### {language.capitalize()}: `{filename}`\n")
     destination_file.write(f"```{language.lower()}\n")
 
     with open(file_path, 'r') as source_code_file:

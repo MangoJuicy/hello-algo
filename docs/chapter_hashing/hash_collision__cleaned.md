@@ -112,7 +112,7 @@
 -----------------------------------------------------------------
 
 ## HASH_MAP_CHAINING
-Python: `hash_map_chaining.py`
+#### Python: `hash_map_chaining.py`
 ```python
 
 import sys
@@ -229,7 +229,7 @@ if __name__ == "__main__":
     hashmap.print()
 ```
 
-Java: `hash_map_chaining.java`
+#### Java: `hash_map_chaining.java`
 ```java
 
 package chapter_hashing;
@@ -382,7 +382,7 @@ public class hash_map_chaining {
 -----------------------------------------------------------------
 
 ## HASH_MAP_OPEN_ADDRESSING
-Python: `hash_map_open_addressing.py`
+#### Python: `hash_map_open_addressing.py`
 ```python
 
 import sys
@@ -519,7 +519,7 @@ if __name__ == "__main__":
     hashmap.print()
 ```
 
-Java: `hash_map_open_addressing.java`
+#### Java: `hash_map_open_addressing.java`
 ```java
 
 package chapter_hashing;

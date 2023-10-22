@@ -222,7 +222,7 @@ Java
 -----------------------------------------------------------------
 
 ## LINKED_LIST
-Python: `linked_list.py`
+#### Python: `linked_list.py`
 ```python
 
 import sys
@@ -305,7 +305,7 @@ if __name__ == "__main__":
     print("链表中值为 2 的节点的索引 = {}".format(index))
 ```
 
-Java: `linked_list.java`
+#### Java: `linked_list.java`
 ```java
 
 package chapter_array_and_linkedlist;

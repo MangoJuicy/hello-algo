@@ -103,7 +103,7 @@
 -----------------------------------------------------------------
 
 ## BUILD_TREE
-Python: `build_tree.py`
+#### Python: `build_tree.py`
 ```python
 
 import sys
@@ -156,7 +156,7 @@ if __name__ == "__main__":
     print_tree(root)
 ```
 
-Java: `build_tree.java`
+#### Java: `build_tree.java`
 ```java
 
 package chapter_divide_and_conquer;

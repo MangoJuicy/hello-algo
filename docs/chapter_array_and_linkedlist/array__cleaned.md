@@ -137,7 +137,7 @@ Java
 -----------------------------------------------------------------
 
 ## ARRAY
-Python: `array.py`
+#### Python: `array.py`
 ```python
 
 import random
@@ -235,7 +235,7 @@ if __name__ == "__main__":
     print("在 nums 中查找元素 3 ，得到索引 =", index)
 ```
 
-Java: `array.java`
+#### Java: `array.java`
 ```java
 
 package chapter_array_and_linkedlist;
