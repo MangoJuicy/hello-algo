@@ -189,7 +189,7 @@ AVL 树的节点查找操作与二叉搜索树一致，在此不再赘述。
 -----------------------------------------------------------------
 
 ## AVL_TREE
-#### Python: `avl_tree.py`
+### Python: `avl_tree.py`
 ```python
 
 import sys
@@ -396,7 +396,7 @@ if __name__ == "__main__":
     print("\n查找到的节点对象为 {}，节点值 = {}".format(result_node, result_node.val))
 ```
 
-#### Java: `avl_tree.java`
+### Java: `avl_tree.java`
 ```java
 
 package chapter_tree;

@@ -61,7 +61,7 @@
 -----------------------------------------------------------------
 
 ## BUBBLE_SORT
-#### Python: `bubble_sort.py`
+### Python: `bubble_sort.py`
 ```python
 
 
@@ -104,7 +104,7 @@ if __name__ == "__main__":
     print("冒泡排序完成后 nums =", nums1)
 ```
 
-#### Java: `bubble_sort.java`
+### Java: `bubble_sort.java`
 ```java
 
 package chapter_sorting;

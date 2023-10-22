@@ -85,7 +85,7 @@
 -----------------------------------------------------------------
 
 ## BINARY_SEARCH
-#### Python: `binary_search.py`
+### Python: `binary_search.py`
 ```python
 
 
@@ -136,7 +136,7 @@ if __name__ == "__main__":
     print("目标元素 6 的索引 = ", index)
 ```
 
-#### Java: `binary_search.java`
+### Java: `binary_search.java`
 ```java
 
 package chapter_searching;

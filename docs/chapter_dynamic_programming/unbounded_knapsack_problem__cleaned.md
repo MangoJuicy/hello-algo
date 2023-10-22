@@ -213,7 +213,7 @@ $$
 -----------------------------------------------------------------
 
 ## UNBOUNDED_KNAPSACK
-#### Python: `unbounded_knapsack.py`
+### Python: `unbounded_knapsack.py`
 ```python
 
 
@@ -267,7 +267,7 @@ if __name__ == "__main__":
     print(f"不超过背包容量的最大物品价值为 {res}")
 ```
 
-#### Java: `unbounded_knapsack.java`
+### Java: `unbounded_knapsack.java`
 ```java
 
 package chapter_dynamic_programming;
@@ -335,7 +335,7 @@ public class unbounded_knapsack {
 -----------------------------------------------------------------
 
 ## COIN_CHANGE
-#### Python: `coin_change.py`
+### Python: `coin_change.py`
 ```python
 
 
@@ -394,7 +394,7 @@ if __name__ == "__main__":
     print(f"凑到目标金额所需的最少硬币数量为 {res}")
 ```
 
-#### Java: `coin_change.java`
+### Java: `coin_change.java`
 ```java
 
 package chapter_dynamic_programming;
@@ -471,7 +471,7 @@ public class coin_change {
 -----------------------------------------------------------------
 
 ## COIN_CHANGE_II
-#### Python: `coin_change_ii.py`
+### Python: `coin_change_ii.py`
 ```python
 
 
@@ -529,7 +529,7 @@ if __name__ == "__main__":
     print(f"凑出目标金额的硬币组合数量为 {res}")
 ```
 
-#### Java: `coin_change_ii.java`
+### Java: `coin_change_ii.java`
 ```java
 
 package chapter_dynamic_programming;

@@ -93,7 +93,7 @@
 -----------------------------------------------------------------
 
 ## BINARY_TREE_BFS
-#### Python: `binary_tree_bfs.py`
+### Python: `binary_tree_bfs.py`
 ```python
 
 import sys
@@ -134,7 +134,7 @@ if __name__ == "__main__":
     print("\n层序遍历的节点打印序列 = ", res)
 ```
 
-#### Java: `binary_tree_bfs.java`
+### Java: `binary_tree_bfs.java`
 ```java
 
 package chapter_tree;
@@ -181,7 +181,7 @@ public class binary_tree_bfs {
 -----------------------------------------------------------------
 
 ## BINARY_TREE_DFS
-#### Python: `binary_tree_dfs.py`
+### Python: `binary_tree_dfs.py`
 ```python
 
 import sys
@@ -245,7 +245,7 @@ if __name__ == "__main__":
     print("\n后序遍历的节点打印序列 = ", res)
 ```
 
-#### Java: `binary_tree_dfs.java`
+### Java: `binary_tree_dfs.java`
 ```java
 
 package chapter_tree;

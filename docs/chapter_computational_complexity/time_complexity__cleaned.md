@@ -436,7 +436,7 @@ $$
 -----------------------------------------------------------------
 
 ## TIME_COMPLEXITY
-#### Python: `time_complexity.py`
+### Python: `time_complexity.py`
 ```python
 
 
@@ -586,7 +586,7 @@ if __name__ == "__main__":
     print("阶乘阶（递归实现）的操作数量 =", count)
 ```
 
-#### Java: `time_complexity.java`
+### Java: `time_complexity.java`
 ```java
 
 package chapter_computational_complexity;
@@ -758,7 +758,7 @@ public class time_complexity {
 -----------------------------------------------------------------
 
 ## WORST_BEST_TIME_COMPLEXITY
-#### Python: `worst_best_time_complexity.py`
+### Python: `worst_best_time_complexity.py`
 ```python
 
 import random
@@ -793,7 +793,7 @@ if __name__ == "__main__":
         print("数字 1 的索引为", index)
 ```
 
-#### Java: `worst_best_time_complexity.java`
+### Java: `worst_best_time_complexity.java`
 ```java
 
 package chapter_computational_complexity;

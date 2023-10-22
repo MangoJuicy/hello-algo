@@ -172,7 +172,7 @@ $$
 -----------------------------------------------------------------
 
 ## KNAPSACK
-#### Python: `knapsack.py`
+### Python: `knapsack.py`
 ```python
 
 
@@ -272,7 +272,7 @@ if __name__ == "__main__":
     print(f"不超过背包容量的最大物品价值为 {res}")
 ```
 
-#### Java: `knapsack.java`
+### Java: `knapsack.java`
 ```java
 
 package chapter_dynamic_programming;

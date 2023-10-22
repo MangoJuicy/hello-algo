@@ -105,7 +105,7 @@ $$
 -----------------------------------------------------------------
 
 ## MIN_COST_CLIMBING_STAIRS_DP
-#### Python: `min_cost_climbing_stairs_dp.py`
+### Python: `min_cost_climbing_stairs_dp.py`
 ```python
 
 
@@ -147,7 +147,7 @@ if __name__ == "__main__":
     print(f"爬完楼梯的最低代价为 {res}")
 ```
 
-#### Java: `min_cost_climbing_stairs_dp.java`
+### Java: `min_cost_climbing_stairs_dp.java`
 ```java
 
 package chapter_dynamic_programming;
@@ -205,7 +205,7 @@ public class min_cost_climbing_stairs_dp {
 -----------------------------------------------------------------
 
 ## CLIMBING_STAIRS_CONSTRAINT_DP
-#### Python: `climbing_stairs_constraint_dp.py`
+### Python: `climbing_stairs_constraint_dp.py`
 ```python
 
 
@@ -233,7 +233,7 @@ if __name__ == "__main__":
     print(f"爬 {n} 阶楼梯共有 {res} 种方案")
 ```
 
-#### Java: `climbing_stairs_constraint_dp.java`
+### Java: `climbing_stairs_constraint_dp.java`
 ```java
 
 package chapter_dynamic_programming;

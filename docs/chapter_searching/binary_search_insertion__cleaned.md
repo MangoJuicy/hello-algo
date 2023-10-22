@@ -95,7 +95,7 @@
 -----------------------------------------------------------------
 
 ## BINARY_SEARCH_INSERTION
-#### Python: `binary_search_insertion.py`
+### Python: `binary_search_insertion.py`
 ```python
 
 
@@ -148,7 +148,7 @@ if __name__ == "__main__":
         print(f"元素 {target} 的插入点的索引为 {index}")
 ```
 
-#### Java: `binary_search_insertion.java`
+### Java: `binary_search_insertion.java`
 ```java
 
 package chapter_searching;

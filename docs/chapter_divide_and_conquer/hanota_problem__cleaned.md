@@ -101,7 +101,7 @@
 -----------------------------------------------------------------
 
 ## HANOTA
-#### Python: `hanota.py`
+### Python: `hanota.py`
 ```python
 
 
@@ -153,7 +153,7 @@ if __name__ == "__main__":
     print(f"C = {C}")
 ```
 
-#### Java: `hanota.java`
+### Java: `hanota.java`
 ```java
 
 package chapter_divide_and_conquer;

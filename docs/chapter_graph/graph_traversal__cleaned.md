@@ -140,7 +140,7 @@ BFS 通常借助队列来实现。队列具有“先入先出”的性质，这�
 -----------------------------------------------------------------
 
 ## GRAPH_BFS
-#### Python: `graph_bfs.py`
+### Python: `graph_bfs.py`
 ```python
 
 import sys
@@ -203,7 +203,7 @@ if __name__ == "__main__":
     print(vets_to_vals(res))
 ```
 
-#### Java: `graph_bfs.java`
+### Java: `graph_bfs.java`
 ```java
 
 package chapter_graph;
@@ -263,7 +263,7 @@ public class graph_bfs {
 -----------------------------------------------------------------
 
 ## GRAPH_DFS
-#### Python: `graph_dfs.py`
+### Python: `graph_dfs.py`
 ```python
 
 import sys
@@ -319,7 +319,7 @@ if __name__ == "__main__":
     print(vets_to_vals(res))
 ```
 
-#### Java: `graph_dfs.java`
+### Java: `graph_dfs.java`
 ```java
 
 package chapter_graph;

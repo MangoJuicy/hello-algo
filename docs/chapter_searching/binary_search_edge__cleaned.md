@@ -60,7 +60,7 @@
 -----------------------------------------------------------------
 
 ## BINARY_SEARCH_EDGE
-#### Python: `binary_search_edge.py`
+### Python: `binary_search_edge.py`
 ```python
 
 import sys
@@ -108,7 +108,7 @@ if __name__ == "__main__":
         print(f"最右一个元素 {target} 的索引为 {index}")
 ```
 
-#### Java: `binary_search_edge.java`
+### Java: `binary_search_edge.java`
 ```java
 
 package chapter_searching;

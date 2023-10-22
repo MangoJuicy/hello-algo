@@ -116,7 +116,7 @@ Java
 -----------------------------------------------------------------
 
 ## LINKEDLIST_DEQUE
-#### Python: `linkedlist_deque.py`
+### Python: `linkedlist_deque.py`
 ```python
 
 
@@ -266,7 +266,7 @@ if __name__ == "__main__":
     print("双向队列是否为空 =", is_empty)
 ```
 
-#### Java: `linkedlist_deque.java`
+### Java: `linkedlist_deque.java`
 ```java
 
 package chapter_stack_and_queue;
@@ -446,7 +446,7 @@ public class linkedlist_deque {
 -----------------------------------------------------------------
 
 ## ARRAY_DEQUE
-#### Python: `array_deque.py`
+### Python: `array_deque.py`
 ```python
 
 
@@ -574,7 +574,7 @@ if __name__ == "__main__":
     print("双向队列是否为空 =", is_empty)
 ```
 
-#### Java: `array_deque.java`
+### Java: `array_deque.java`
 ```java
 
 package chapter_stack_and_queue;

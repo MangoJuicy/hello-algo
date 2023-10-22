@@ -133,7 +133,7 @@ $$
 -----------------------------------------------------------------
 
 ## EDIT_DISTANCE
-#### Python: `edit_distance.py`
+### Python: `edit_distance.py`
 ```python
 
 
@@ -255,7 +255,7 @@ if __name__ == "__main__":
     print(f"将 {s} 更改为 {t} 最少需要编辑 {res} 步")
 ```
 
-#### Java: `edit_distance.java`
+### Java: `edit_distance.java`
 ```java
 
 package chapter_dynamic_programming;

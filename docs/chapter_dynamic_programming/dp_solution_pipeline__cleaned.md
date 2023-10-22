@@ -185,7 +185,7 @@ $$
 -----------------------------------------------------------------
 
 ## MIN_PATH_SUM
-#### Python: `min_path_sum.py`
+### Python: `min_path_sum.py`
 ```python
 
 from math import inf
@@ -288,7 +288,7 @@ if __name__ == "__main__":
     print(f"从左上角到右下角的做小路径和为 {res}")
 ```
 
-#### Java: `min_path_sum.java`
+### Java: `min_path_sum.java`
 ```java
 
 package chapter_dynamic_programming;

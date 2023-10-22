@@ -99,7 +99,7 @@
 -----------------------------------------------------------------
 
 ## PERMUTATIONS_I
-#### Python: `permutations_i.py`
+### Python: `permutations_i.py`
 ```python
 
 
@@ -142,7 +142,7 @@ if __name__ == "__main__":
     print(f"所有排列 res = {res}")
 ```
 
-#### Java: `permutations_i.java`
+### Java: `permutations_i.java`
 ```java
 
 package chapter_backtracking;
@@ -198,7 +198,7 @@ public class permutations_i {
 -----------------------------------------------------------------
 
 ## PERMUTATIONS_II
-#### Python: `permutations_ii.py`
+### Python: `permutations_ii.py`
 ```python
 
 
@@ -243,7 +243,7 @@ if __name__ == "__main__":
     print(f"所有排列 res = {res}")
 ```
 
-#### Java: `permutations_ii.java`
+### Java: `permutations_ii.java`
 ```java
 
 package chapter_backtracking;

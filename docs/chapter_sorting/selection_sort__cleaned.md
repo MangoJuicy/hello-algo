@@ -62,7 +62,7 @@
 -----------------------------------------------------------------
 
 ## SELECTION_SORT
-#### Python: `selection_sort.py`
+### Python: `selection_sort.py`
 ```python
 
 
@@ -87,7 +87,7 @@ if __name__ == "__main__":
     print("选择排序完成后 nums =", nums)
 ```
 
-#### Java: `selection_sort.java`
+### Java: `selection_sort.java`
 ```java
 
 package chapter_sorting;
